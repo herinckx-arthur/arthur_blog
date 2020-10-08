@@ -1,5 +1,5 @@
 ---
-title: "___"
+title: "Blog d'Arthur Herinckx"
 site: distill::distill_website
 listing: posts
 ---
