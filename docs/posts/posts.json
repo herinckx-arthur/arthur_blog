@@ -2,29 +2,21 @@
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Pretty as a peacock : The gemstone for the next generation of smart sensors",
-    "description": "Dicovery of new photonic crystal with potencialy a lot of applications in our current life.",
+    "description": "Discovery of new photonic crystal with potencialy a lot of applications in our current life.",
     "author": [
       {
         "name": "Herinckx arthur",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-24",
+    "date": "2020-10-26",
     "categories": [
       "English for Science",
       "biomimicry",
       "application"
     ],
     "preview": "posts/2019-10-24-bacteria-antobiotics/images/ocelle paon.jpg",
-    "last_modified": "2020-10-24T14:48:10+02:00"
+    "last_modified": "2020-10-26T09:35:47+01:00"
   },
   {
     "path": "posts/2020-10-24-mon-article/",

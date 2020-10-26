@@ -1,11 +1,10 @@
 ---
 title: "Pretty as a peacock : The gemstone for the next generation of smart sensors"
 description: |
-  Dicovery of new photonic crystal with potencialy a lot of applications in our current life.
+  Discovery of new photonic crystal with potencialy a lot of applications in our current life.
 author:
   - name: Herinckx arthur
-  - name: Nicolas Devilez
-  - name: Engels Guyliann
+
     url: https://guyliann.netlify.com/fr
 date: "`r Sys.Date()`"
 categories:
@@ -29,13 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 This post is an analysis of Analysis of: [Pretty as a peacock : The gemstone for the next generation of smart sensors](https://www.surrey.ac.uk/news/pretty-peacock-gemstone-next-generation-smart-sensors) . 
 
-
-## Summary 
-Scientific of all around the world and led by the universities of surrey worked together to create a new photonic crystal associate with a tiny quantity of graphene, witch thought beautiful could be useful for a wide range of application due to is property.
-
-In fact, this material can react to a vast range of stimuli like: temperature, pression, organic life and chemicals associate and also keep in memory the form of a surface.
-
-For all of this reasons, they think this material could be an exceptional indicator of physicals and chemicals changes.
+### Number of word and date of publication: 638, 19 may 2020
 
 ## Vocabulary: 
 | word from the text   | synonym/ definition                                                  | French translation |
