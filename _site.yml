@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/herinckx-arthur/arthur_blog
-base_url: herinckx_arthur.github.io/arthur_blog/
+base_url: http://herinckx-arthur.github.io/arthur_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]

@@ -1,11 +1,9 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Herinckx Arthur" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
-
-This section must bu include a short presentation of you.
-
-- first name/surname, teacher’s name, class name and academic year
+Hi,
+my name is Arthur Herinckx and this blog is mine. I'm currently a student of biology in the university of Mons in the second degres of bachelier. the goal of this blog is to improve my skill in english via writing or reading article who talk about biomimicry with the help of Mrs Bouchet. 
