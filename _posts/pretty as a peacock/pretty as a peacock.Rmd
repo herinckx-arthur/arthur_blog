@@ -8,9 +8,7 @@ author:
     url: https://guyliann.netlify.com/fr
 date: "`r Sys.Date()`"
 categories:
-  - "English for Science"
-  - "biomimicry"
-  - "application"
+  - "Articles"
 preview: images/ocelle paon.jpg
 #draft: TRUE
 bibliography: biblio/bacteria.bib

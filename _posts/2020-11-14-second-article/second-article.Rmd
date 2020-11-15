@@ -15,6 +15,29 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
+
+SciViews::R
+options(data.io_lang = "fr") # Labels en français
 ```
 
+```{r importation}
+urchin <- read("urchin_bio", package = "data.io")
+```
 
+## Introduction
+In this section, my goal is to show if there is a difference of quantity of fluid in the gonads of urchin coming from fishery and culture. To do this,I create a graphic which show how the weight of gonads are correlate to their dry mass with a linear trend .After that, I can see if an urchin with de same gonads mass, would have a similar dry gonads mass wether it is living in a farm or in nature. The data come from " urchin_bio".
+
+## Graphic
+
+```{r}
+library(ggplot2)
+library(hrbrthemes)
+ggplot(data = urchin_bio, aes(x = gonads, y = dry_gonads, color = origin)) + 
+  geom_point() +
+  theme_ipsum()+
+  geom_smooth(method=lm, se=TRUE, fullrange=TRUE)
+```
+
+## Conclusion
+The graphic shows two things. First, the proportion of fluid correlate to the mass of gonads are not the same wether the urchin is living in a farm or in nature. In fact, there are more fluids in the gonads of an urchin coming from nature than an urchin coming from a farm. This difference is more and more obvious when the total mass of gonads increase. Also, an other thing is that the total mass of gonads can reach 15g for the urchin living in a farm when for others they can barely reach 9g. It could be intresting to calculate the average mass of gonads in function of the origin of urchin.
