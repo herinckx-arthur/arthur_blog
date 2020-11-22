@@ -1,0 +1,31 @@
+---
+title: "Artificial eyes mimics ours retina"
+description: |
+  The dream of synthetic eyes is not new, but with the apparition of a new technique and composant, this could be soon available.
+author:
+  - name: Herinckx Arthur
+    url: {https://guyliann.netlify.com/fr}
+date: 11-22-2020
+output:
+  distill::distill_article:
+    self_contained: false
+categorie:
+  - "Articles"
+preview: images/oeil-bionique-vision-telescopique-copie.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/oeil.webp)
+
+This post is an analysis of analysis of: [New artificial eye mimics a retina's natural curve](https://www.scientificamerican.com/article/new-artificial-eye-mimics-a-retinas-natural-curve/) .
+
+### Number of word and date of publication: 753, 20 may 2020 
+
+## Vocabulary:
+
+
+## Analysis table:
+

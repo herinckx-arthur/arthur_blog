@@ -1,5 +1,5 @@
 ---
-title: "Pretty as a peacock : The gemstone for the next generation of smart sensors"
+title: "Discovery of a gemstone for the next generation of smart sensors"
 description: |
   Discovery of new photonic crystal with potencialy a lot of applications in our current life.
 author:
@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/graphene.jpg)
 
-This post is an analysis of Analysis of: [Pretty as a peacock : The gemstone for the next generation of smart sensors](https://www.surrey.ac.uk/news/pretty-peacock-gemstone-next-generation-smart-sensors) . 
+This post is an analysis of analysis of: [Pretty as a peacock : The gemstone for the next generation of smart sensors](https://www.surrey.ac.uk/news/pretty-peacock-gemstone-next-generation-smart-sensors) . 
 
 ### Number of word and date of publication: 638, 19 may 2020
 

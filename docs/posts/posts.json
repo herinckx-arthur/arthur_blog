@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-22-artificial-eyes-mimic-ours-retina/",
+    "title": "Artificial eyes mimics ours retina",
+    "description": "The dream of synthetic eyes is not new, but with the apparition of a new technique and composant, this could be soon available.",
+    "author": [
+      {
+        "name": "Herinckx Arthur",
+        "url": {
+          "https://guyliann.netlify.com/fr": {}
+        }
+      }
+    ],
+    "date": "2020-11-22",
+    "categories": [],
+    "preview": "posts/2020-11-22-artificial-eyes-mimic-ours-retina/images/oeil-bionique-vision-telescopique-copie.jpg",
+    "last_modified": "2020-11-22T14:13:38+01:00"
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},
@@ -9,16 +26,16 @@
         "url": {}
       }
     ],
-    "date": "2020-11-15",
+    "date": "2020-11-22",
     "categories": [
       "English for Science",
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2020-11-15T16:31:20+01:00"
+    "last_modified": "2020-11-22T13:26:46+01:00"
   },
   {
-    "path": "posts/2020-11-14-second-article/",
+    "path": "posts/2020-11-14-SDD work/",
     "title": "Graphic SDD",
     "description": "graphics and work for SDD",
     "author": [
@@ -31,7 +48,7 @@
     "categories": [
       "SDD"
     ],
-    "preview": "posts/2020-11-14-second-article/second-article_files/figure-html5/unnamed-chunk-1-1.png",
+    "preview": "posts/2020-11-14-SDD work/second-article_files/figure-html5/unnamed-chunk-1-1.png",
     "last_modified": "2020-11-15T15:31:43+01:00",
     "preview_width": 1248,
     "preview_height": 768
