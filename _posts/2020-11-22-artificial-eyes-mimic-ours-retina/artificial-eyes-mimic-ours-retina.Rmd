@@ -25,7 +25,20 @@ This post is an analysis of analysis of: [New artificial eye mimics a retina's n
 ### Number of word and date of publication: 753, 20 may 2020 
 
 ## Vocabulary:
-
+| word from the text    | synonym/ definition                                           |  French translation            |
+| --------------------- | ------------------------------------------------------------- | ------------------------------ |
+| gooey                 | viscous                                                       | visqueux / gluant              |
+| nanowires             | wires which are extremely thin,  the wide are a few nanometer | fils nanometrique              |
+| an array of nanowires | nanowires network                                             | un réseau de fils nanomètrique |
+| studded               | garnish                                                       | garnis                         |
+| blind spot            | a place where you can not see                                 | angle mort                     |
+| The field             | the domain                                                    | le domaine                     |
+| bionic                | something which is artificial and implant in our body         | bionique                       |
 
 ## Analysis table:
-
+| Researchers ?                   |  Zhiyong Fan, Leilei Gu and their team.                                                                                                                                                                                                                                                           |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in ? When ?           |  In Nature, 20 may 2020.                                                                                                                                                                                                                                                                          |
+| General topic ?                 | This article speak about the development of  a spherical artificial eyes and how they create an artificial retina.                                                                                                                                                                                |
+| Procedure / What was examined ? | First they fold aluminium in a spherical way, after that the aluminium is treated and transform in aluminium oxide and studded with holes . Secondly, the researcher provoke the grown of the  perovskite nanowires. Finally, they add an artificial crystalline and ionic liquid and the cavity. |
+| Conclusion/ discovery ?         | Of course it's not as efficient as our eyes, but it is a breakthrough in the field and we can hope that in the next decade this model will be use to heal people who suffer from blindness.                                                                                                       |
