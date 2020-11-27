@@ -3,7 +3,7 @@ title: "Arthur's Blog"
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Home page"
       href: index.html
     - text: "M.E.A.L."
       href: "posts/meal/index.html"

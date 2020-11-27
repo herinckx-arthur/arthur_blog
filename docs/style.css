@@ -1,4 +1,4 @@
-.distill-site-nav {
+.distill-site-nav { 
   color: rgba(255, 255, 255, 0.8);
   background-color: #b7ebc5;
   font-size: 15px;
@@ -11,19 +11,16 @@
 }
 
 .distill-site-nav a:hover {
-  color: blue;
+  color: black;
 }
 
 .distill-site-header { 
+  
 }
 
 .distill-site-footer {
 }
 
-.d-article a {
-  border-bottom: 2px solid #53fc0a;
-  text-decoration: none;
-}
 
 @media print {
   .distill-site-nav {
