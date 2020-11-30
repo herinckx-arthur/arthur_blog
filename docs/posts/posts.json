@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-30-plastic-web/",
+    "title": "a new plastic material inspire of spider web",
+    "description": "spider webs are know for their extreme resistance but what could be have if we combine their structures with plastic ? The answer, a new material which is as much durable as plastic and as much resistant as spider web.",
+    "author": [
+      {
+        "name": "Herinckx Arthur",
+        "url": {
+          "https://guyliann.netlify.com/fr": {}
+        }
+      }
+    ],
+    "date": "2020-11-30",
+    "categories": [],
+    "preview": "posts/2020-11-30-plastic-web/images/toile araigné.jpg",
+    "last_modified": "2020-11-30T10:36:24+01:00"
+  },
+  {
     "path": "posts/2020-11-22-artificial-eyes-mimic-ours-retina/",
     "title": "Artificial eyes mimics ours retina",
     "description": "The dream of synthetic eyes is not new, but with the apparition of a new technique and composant, this could be soon available.",
