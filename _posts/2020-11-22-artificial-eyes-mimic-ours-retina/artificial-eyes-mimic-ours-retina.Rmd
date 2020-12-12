@@ -1,5 +1,5 @@
 ---
-title: "Artificial eyes mimics ours retina"
+title: "Artificial eyes mimics ours retina."
 description: |
   The dream of synthetic eyes is not new, but with the apparition of a new technique and composant, this could be soon available.
 author:

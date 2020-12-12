@@ -1,17 +1,14 @@
 ---
-title: "Discovery of a gemstone for the next generation of smart sensors"
+title: "Discovery of a gemstone for the next generation of smart sensors."
 description: |
   Discovery of new photonic crystal with potencialy a lot of applications in our current life.
 author:
   - name: Herinckx arthur
-
-    url: https://guyliann.netlify.com/fr
-date: "`r Sys.Date()`"
+    url: {https://guyliann.netlify.com/fr}
+date: 10-10-2020
 categories:
   - "Articles"
 preview: images/ocelle paon.jpg
-#draft: TRUE
-bibliography: biblio/bacteria.bib
 output:
   distill::distill_article:
     self_contained: false
