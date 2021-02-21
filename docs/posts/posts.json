@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-02-21-insect-wings/",
+    "title": "Insect wings",
+    "description": "Every living being face in one way or in other infectious deseases. But some of them have developed an uncommon way of protection, which could be a solution to our bacteria resistance problems.",
+    "author": [
+      {
+        "name": "Herinckx Arthur",
+        "url": {
+          "https://guyliann.netlify.com/fr": {}
+        }
+      }
+    ],
+    "date": "2021-02-21",
+    "categories": [],
+    "preview": "posts/2021-02-21-insect-wings/images/wing.jpg",
+    "last_modified": "2021-02-21T16:02:37+01:00"
+  },
+  {
     "path": "posts/2020-12-12-as-hard-as-beetles/",
     "title": "The unbreakable shell of iron beetles.",
     "description": "Beetles are know for the hardness of their shell and how difficult it is to break them even for us as human. But one of them outclass all, iron beetle. For this reason, scientist lead a study to understand the resistance of their shell.",
@@ -19,7 +36,7 @@
   {
     "path": "posts/2020-11-30-plastic-web/",
     "title": "A new plastic material inspire of spider web.",
-    "description": "spider webs are know for their extreme resistance but what could be have if we combine their structures with plastic ? The answer, a new material which is as much durable as plastic and as much resistant as spider web.",
+    "description": "spider webs are known for their extreme resistance, but what could we made if we combine their structures with plastic ? The answer, a new material which is as much durable as plastic and as much resistant as spider web.",
     "author": [
       {
         "name": "Herinckx Arthur",
@@ -31,7 +48,7 @@
     "date": "2020-11-30",
     "categories": [],
     "preview": "posts/2020-11-30-plastic-web/images/toile araigné.jpg",
-    "last_modified": "2020-12-12T14:23:56+01:00"
+    "last_modified": "2021-02-21T15:13:48+01:00"
   },
   {
     "path": "posts/2020-11-22-artificial-eyes-mimic-ours-retina/",

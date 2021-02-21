@@ -1,7 +1,7 @@
 ---
 title: "A new plastic material inspire of spider web." 
 description: |
-  spider webs are know for their extreme resistance but what could be have if we combine their structures with plastic ? The answer, a new material which is as much durable as plastic and as much resistant as spider web.
+  spider webs are known for their extreme resistance, but what could we made if we combine their structures with plastic ? The answer, a new material which is as much durable as plastic and as much resistant as spider web.
 author:
   - name: Herinckx Arthur
     url:
