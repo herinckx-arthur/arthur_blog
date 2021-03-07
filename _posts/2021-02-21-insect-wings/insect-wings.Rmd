@@ -1,7 +1,7 @@
 ---
-title: "Insect wings"
+title: " A nanomaterial with the ability of killing superbugs by contact"
 description: |
-  Every living being face in one way or in other infectious deseases. But some of them have developed an uncommon way of protection, which could be a solution to our bacteria resistance problems.
+  Every living being face in one way or in other infectious deseases, but some of them have developed an uncommon way of protection. this ability could be a solution to our bacteria resistance problems.
 author:
   - name: Herinckx Arthur
     url:
