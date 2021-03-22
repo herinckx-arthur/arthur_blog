@@ -1,6 +1,23 @@
 [
   {
-    "path": "posts/2021-03-09-a-new-super-hydrophobic-material-inspire-of-butterfly-wings/",
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "Herinckx Arthur",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-22",
+    "categories": [
+      "M.E.A.L."
+    ],
+    "preview": {},
+    "last_modified": "2021-03-22T15:37:39+01:00"
+  },
+  {
+    "path": "posts/a_new_super_hydrophobic_material_inspire_of_butterfly_wings/",
     "title": " A new super-hydrophobic material inspire of butterfly wings",
     "description": "The fly of insects are sometimes chaotic but most of the time there is something gracious in their ability to fly, even if it rains cats and dogs. For this particular reason, scientist have studied the molecular structure of butterfly wings.",
     "author": [
@@ -12,9 +29,11 @@
       }
     ],
     "date": "2021-03-09",
-    "categories": [],
-    "preview": "posts/2021-03-09-a-new-super-hydrophobic-material-inspire-of-butterfly-wings/images/raindrops.jpg",
-    "last_modified": "2021-03-09T12:32:25+01:00"
+    "categories": [
+      "Articles"
+    ],
+    "preview": "posts/a_new_super_hydrophobic_material_inspire_of_butterfly_wings/images/raindrops.jpg",
+    "last_modified": "2021-03-22T15:41:59+01:00"
   },
   {
     "path": "posts/2021-03-07-an-anti-reflective-coat-ispire-of-moth-eyes/",
@@ -29,9 +48,11 @@
       }
     ],
     "date": "2021-03-07",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": "posts/2021-03-07-an-anti-reflective-coat-ispire-of-moth-eyes/images/shutterstock_1474485266.jpg",
-    "last_modified": "2021-03-09T11:43:10+01:00"
+    "last_modified": "2021-03-22T15:49:26+01:00"
   },
   {
     "path": "posts/2021-02-21-insect-wings/",
@@ -46,9 +67,11 @@
       }
     ],
     "date": "2021-02-21",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": "posts/2021-02-21-insect-wings/images/wing.jpg",
-    "last_modified": "2021-03-07T15:30:07+01:00"
+    "last_modified": "2021-03-22T15:47:51+01:00"
   },
   {
     "path": "posts/2020-12-12-as-hard-as-beetles/",
@@ -63,12 +86,14 @@
       }
     ],
     "date": "2020-12-12",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": "posts/2020-12-12-as-hard-as-beetles/images/beetle.jpg",
-    "last_modified": "2020-12-12T17:10:03+01:00"
+    "last_modified": "2021-03-22T15:46:11+01:00"
   },
   {
-    "path": "posts/2020-11-30-plastic-web/",
+    "path": "posts/2020_11_30_plastic_web/",
     "title": "A new plastic material inspire of spider web.",
     "description": "spider webs are known for their extreme resistance, but what could we made if we combine their structures with plastic ? The answer, a new material which is as much durable as plastic and as much resistant as spider web.",
     "author": [
@@ -80,12 +105,14 @@
       }
     ],
     "date": "2020-11-30",
-    "categories": [],
-    "preview": "posts/2020-11-30-plastic-web/images/toile araigné.jpg",
-    "last_modified": "2021-02-21T15:13:48+01:00"
+    "categories": [
+      "Articles"
+    ],
+    "preview": "posts/2020_11_30_plastic_web/images/toile-araigné.jpg",
+    "last_modified": "2021-03-22T15:28:18+01:00"
   },
   {
-    "path": "posts/2020-11-22-artificial-eyes-mimic-ours-retina/",
+    "path": "posts/2020_11_22_artificial_eyes_mimic_ours_retina/",
     "title": "Artificial eyes mimics ours retina.",
     "description": "The dream of synthetic eyes is not new, but with the apparition of a new technique and composant, this could be soon available.",
     "author": [
@@ -97,27 +124,11 @@
       }
     ],
     "date": "2020-11-22",
-    "categories": [],
-    "preview": "posts/2020-11-22-artificial-eyes-mimic-ours-retina/images/oeil-bionique-vision-telescopique-copie.jpg",
-    "last_modified": "2020-12-12T14:23:28+01:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "Herinckx Arthur",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-22",
     "categories": [
-      "English for Science",
-      "M.E.A.L."
+      "Articles"
     ],
-    "preview": {},
-    "last_modified": "2020-11-22T13:26:46+01:00"
+    "preview": "posts/2020_11_22_artificial_eyes_mimic_ours_retina/images/oeil-bionique-vision-telescopique-copie.jpg",
+    "last_modified": "2021-03-22T15:33:35+01:00"
   },
   {
     "path": "posts/2020-11-14-SDD work/",
@@ -154,22 +165,22 @@
     "last_modified": "2020-11-14T14:59:18+01:00"
   },
   {
-    "path": "posts/pretty as a peacock/",
-    "title": "Pretty as a peacock : The gemstone for the next generation of smart sensors",
+    "path": "posts/pretty_as_a_peacock/",
+    "title": "Discovery of a gemstone for the next generation of smart sensors.",
     "description": "Discovery of new photonic crystal with potencialy a lot of applications in our current life.",
     "author": [
       {
         "name": "Herinckx arthur",
-        "url": "https://guyliann.netlify.com/fr"
+        "url": {
+          "https://guyliann.netlify.com/fr": {}
+        }
       }
     ],
-    "date": "2020-10-26",
+    "date": "2020-10-10",
     "categories": [
-      "English for Science",
-      "biomimicry",
-      "application"
+      "Articles"
     ],
-    "preview": "posts/pretty as a peacock/images/ocelle paon.jpg",
-    "last_modified": "2020-10-26T09:35:47+01:00"
+    "preview": "posts/pretty_as_a_peacock/images/ocelle-paon.jpg",
+    "last_modified": "2021-03-22T15:11:52+01:00"
   }
 ]

@@ -4,7 +4,6 @@ author:
   - name: "Herinckx Arthur" 
 date: "`r Sys.Date()`"
 categories:
-  - "English for Science"
   - "M.E.A.L."
 output: distill::distill_article
 ---
