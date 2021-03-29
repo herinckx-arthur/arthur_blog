@@ -113,8 +113,8 @@
   },
   {
     "path": "posts/2020_11_22_artificial_eyes_mimic_ours_retina/",
-    "title": "Artificial eyes mimics ours retina.",
-    "description": "The dream of synthetic eyes is not new, but with the apparition of a new technique and composant, this could be soon available.",
+    "title": "Artificial eyes mimic our retinas.",
+    "description": "The dream of synthetic eyes is not new, but with the apparition of a new technique and component, this could be soon available.",
     "author": [
       {
         "name": "Herinckx Arthur",
@@ -128,7 +128,7 @@
       "Articles"
     ],
     "preview": "posts/2020_11_22_artificial_eyes_mimic_ours_retina/images/oeil-bionique-vision-telescopique-copie.jpg",
-    "last_modified": "2021-03-22T15:33:35+01:00"
+    "last_modified": "2021-03-29T11:42:44+02:00"
   },
   {
     "path": "posts/2020-11-14-SDD work/",
@@ -167,7 +167,7 @@
   {
     "path": "posts/pretty_as_a_peacock/",
     "title": "Discovery of a gemstone for the next generation of smart sensors.",
-    "description": "Discovery of new photonic crystal with potencialy a lot of applications in our current life.",
+    "description": "Discovery of a new photonic crystal which should lead to a lot of applications in our current life.",
     "author": [
       {
         "name": "Herinckx arthur",
@@ -181,6 +181,6 @@
       "Articles"
     ],
     "preview": "posts/pretty_as_a_peacock/images/ocelle-paon.jpg",
-    "last_modified": "2021-03-22T15:11:52+01:00"
+    "last_modified": "2021-03-29T11:08:58+02:00"
   }
 ]

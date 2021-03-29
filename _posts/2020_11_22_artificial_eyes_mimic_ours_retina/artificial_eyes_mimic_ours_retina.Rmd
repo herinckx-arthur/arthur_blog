@@ -1,7 +1,7 @@
 ---
-title: "Artificial eyes mimics ours retina."
+title: "Artificial eyes mimic our retinas."
 description: |
-  The dream of synthetic eyes is not new, but with the apparition of a new technique and composant, this could be soon available.
+  The dream of synthetic eyes is not new, but with the apparition of a new technique and component, this could be soon available.
 author:
   - name: Herinckx Arthur
     url: {https://guyliann.netlify.com/fr}
@@ -40,5 +40,5 @@ This post is an analysis of analysis of: [New artificial eye mimics a retina's n
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Published in ? When ?           |  In Nature, 20 may 2020.                                                                                                                                                                                                                                                                          |
 | General topic ?                 | This article speak about the development of  a spherical artificial eyes and how they create an artificial retina.                                                                                                                                                                                |
-| Procedure / What was examined ? | First they fold aluminium in a spherical way, after that the aluminium is treated and transform in aluminium oxide and studded with holes . Secondly, the researcher provoke the grown of the  perovskite nanowires. Finally, they add an artificial crystalline and ionic liquid and the cavity. |
+| Procedure / What was examined ? | First they fold aluminium in a spherical way, after that the aluminium is treated and transform in aluminium oxide and studded with holes . Secondly, the researcher provoke the grown of the  perovskite nanowires. Finally, they add an artificial crystalline and ionic liquid in the cavity. |
 | Conclusion/ discovery ?         | Of course it's not as efficient as our eyes, but it is a breakthrough in the field and we can hope that in the next decade this model will be use to heal people who suffer from blindness.                                                                                                       |

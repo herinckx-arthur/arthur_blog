@@ -1,7 +1,7 @@
 ---
 title: "Discovery of a gemstone for the next generation of smart sensors."
 description: |
-  Discovery of new photonic crystal with potencialy a lot of applications in our current life.
+  Discovery of a new photonic crystal which should lead to a lot of applications in our current life.
 author:
   - name: Herinckx arthur
     url: {https://guyliann.netlify.com/fr}
@@ -26,10 +26,10 @@ This post is an analysis of analysis of: [Pretty as a peacock : The gemstone for
 ### Number of word and date of publication: 638, 19 may 2020
 
 ## Vocabulary: 
-| word from the text   | synonym/ definition                                                  | French translation |
+| Words from the text   | synonym/ definition                                                  | French translation |
 | -------------------- | -------------------------------------------------------------------- | ------------------ |
-| peacock              | It’s a bird witch show his multicolour tail to impress females       | Paon               |
-| strain               | It’s the force in a rope when two men pull each one , one extremity  | tension            |
+| peacock              | It’s a bird which show his multicolor tail to impress females       | Paon               |
+| strain               | It’s the force in a rope when two men pull each other , one extremity  | tension            |
 | anti-counterfeiting  | It’s something that prevent other person to copy                     | anti-contrefaçon   |
 | scaffolds            | It’s the structure of something                                      | support            |
 
@@ -39,6 +39,6 @@ This post is an analysis of analysis of: [Pretty as a peacock : The gemstone for
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Published in ? When ?        | Advanced Functional Materials.                                                                                                                                                                                                                                                                                                                  |
 | General topic ?                | The creation of a new photonic crystal based on the addition of graphene.                                                                                                                                                                                                                                                                       |
-| Procedure / what was examined ? | The took their inspiration on the vast range of colour on the tail of peacocks and beetle shells, witch come from the molecular structure and not pigmentation.                                                                                                                                                                                 |
-| Conclusion/ discovery ?        | The new crystal can : indicate if they were expose to a rise of temperature (useful for perishable food), keep the shape in memory and react when expose to pressure, interact with virus and serve like a bioindicator, be use like a body sensors for sportive activity or hand-washing indicator and all of that for a relatively low cost. |
+| Procedure / what was examined ? | The took their inspiration on the vast range of color on the tail of peacocks and beetle shells, which come from the molecular structure and not pigmentation.                                                                                                                                                                                 |
+| Conclusion/ discovery ?        | The new crystal can : indicate if they were exposed to a rise of temperature (useful for perishable food), keep the shape in memory and react when expose to pressure, interact with virus and serve like a bioindicator, be use like a body sensors for sportive activity or hand-washing indicator and all of that for a relatively low cost. |
 | Remaining question           | /                                                                                                                                                                                                                                                                                                                                              |
