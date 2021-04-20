@@ -3,6 +3,7 @@ title: "About Me"
 author:
   - name: "Herinckx Arthur" 
 date: "`r Sys.Date()`"
+preview: images/aboutme.jpg
 output: distill::distill_article
 ---
 Hi,

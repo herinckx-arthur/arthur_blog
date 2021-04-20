@@ -5,6 +5,7 @@ author:
 date: "`r Sys.Date()`"
 categories:
   - "M.E.A.L."
+preview: images/activity.jpg
 output: distill::distill_article
 ---
 ### Activities of 15 november 
