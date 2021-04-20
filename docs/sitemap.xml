@@ -2,7 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>http://herinckx-arthur.github.io/arthur_blog/</loc>
-    <lastmod>2020-11-27T12:39:29+01:00</lastmod>
+    <lastmod>2021-04-20T19:02:50+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://herinckx-arthur.github.io/arthur_blog/posts/2021-04-20-conclusion/</loc>
+    <lastmod>2021-04-20T18:46:44+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://herinckx-arthur.github.io/arthur_blog/posts/2021-04-20-introduction/</loc>
+    <lastmod>2021-04-20T18:44:12+02:00</lastmod>
   </url>
   <url>
     <loc>http://herinckx-arthur.github.io/arthur_blog/posts/meal/</loc>
@@ -42,6 +50,6 @@
   </url>
   <url>
     <loc>http://herinckx-arthur.github.io/arthur_blog/posts/pretty_as_a_peacock/</loc>
-    <lastmod>2021-03-29T11:08:58+02:00</lastmod>
+    <lastmod>2021-04-20T19:27:35+02:00</lastmod>
   </url>
 </urlset>

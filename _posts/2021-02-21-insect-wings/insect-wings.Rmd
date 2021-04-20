@@ -29,7 +29,7 @@ This post is an analysis of analysis of: [Insect wings inspire new ways to fight
 | Word from the text | synonym/definition                                          | French translation    |
 | ------------------ | ----------------------------------------------------------- | --------------------- |
 | superbugs          | a type of bacteria which can resist to a lot of antibiotics | bactéries résistantes |
-| spurred            | inspired                                                    | inspiré               |
+| spurred            |  inspired                                                    | inspiré               |
 
 ## Analysis table:
 | Researchers                     | Denver P. Linklater, Vladimir A. Baulin, Saulius Juodkazis, Russell J. Crawford, Paul Stoodley, Elena P. Ivanova.                                                                  |

@@ -1,0 +1,19 @@
+---
+title: "Introduction"
+author:
+  - name: Herinckx Arthur
+    url: {}
+date: 04-20-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In this portfolio, I will speak about biomimicry and the future benefice that this disciple may give us and brought with the recent innovations. To be sure of the clarity of my subject, let’s define “ biomimicry ”. 
+What is biomimicry ? Biomimicry is a field of science which have for goal to discover new property or materials in our surroundings, understand the mechanism behind these materials, and replicate or improve them for better uses in our society. For example, researchers found a species of shark, living in swamp. Swamp are an area particularly dangerous, due to the risk of infectious diseases. Yet, cases of infectious diseases  are extremely rare in this population of shark. After analysing the potential reasons of this bacterial resistance, they found micro-structures on the surface of their skin, with anti-bacterial property. Therefore, they recreate this pattern on the surface of bandages which have now anti-bacterial resistance by themselves. 
+Now that the meaning of biomimicry is clear, let’s take a quick look of the history of biomimicry. The beginning of this field occurs when the well-known Leonard Da Vinci is the first one to understand  that nature is full of innovations, that are waiting to be understand. He said “ Nature is the source of all true knowledge. She has her own logic, her own laws, she has no effect without cause nor invention without necessity.” Thus, he is not the inventor of the word “ biomimicry ”, this invention come from Otto Schmitt. Currently, biomimicry arouse more and more interest from the scientific community, because this field gave practical and economical solution, where conventional methods failed. 
+

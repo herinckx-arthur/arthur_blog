@@ -1,0 +1,17 @@
+---
+title: "Conclusion"
+author:
+  - name: Herinckx Arthur
+    url: {}
+date: 04-20-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+To conclude this portfolio, I will tell briefly what I thought and learned from researching articles about my subject. First of all, I was surprised of the diversity of field impacted by biomimicry. It range from aeronautic to architecture and even medicine. This diversity, is one of the aspect that was not totally obvious when I began. But It became clear that this interdisciplinarity is intrinsic to this field of research, because living being have to develop every aspect of their physiology and morphology, to hope surviving in a world where mercy, is a waste. The second thing I learned from this work, is how in appearance a simple organism like butterfly or cicadas, can be as complex as us, if we search for details. Therefore, biomimicry is not just a way to develop our technology, it is also a way to discover elegant solution of problem that we do not currently have.
+

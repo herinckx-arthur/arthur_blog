@@ -1,7 +1,31 @@
 ---
 title: "Blog d'Arthur Herinckx"
 site: distill::distill_website
-listing: posts
+listing:
+  posts:
+    - about
+    
+    - meal 
+    
+    - 2021-04-20-introduction
+    
+    - pretty_as_a_peackock
+    
+    - 2020_11_22_artificial_eyes_mimic_ours_retina
+    
+    - 2020_11_30_plastic_web
+    
+    - 2020-12-12-as-hard-as-beetles
+    
+    - 2021-02-21-insect-wings
+    
+    - 2021-03-07-an-anti-reflective-coat-ispire-of-moth-eyes
+    
+    - a_new_super_hydrophobic_material_inspire_of_butterfly_wings
+    
+    - 2021-04-20-conclusion 
+    
+    - 2020-11-14-SDD work
 ---
 
 

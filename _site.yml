@@ -9,6 +9,27 @@ navbar:
       href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
+    - text: "English Portfolio"
+    - color: 
+    - menu:
+        - text: "Introduction"
+          href: "posts/2021-04-20-introduction/index.html"
+        - text: "Article 1"
+          href: "posts/pretty_as_a_peackock/index.html"
+        - text: "Article 2"
+          href: "posts/2020_11_22_artificial_eyes_mimic_ours_retina/index.html"
+        - text: "Article 3"
+          href: "posts/2020_11_30_plastic_web/index.html"
+        - text: "Article 4"
+          href: "posts/2020-12-12-as-hard-as-beetles/index.html"
+        - text: "Article 5"
+          href: "posts/2021-02-21-insect-wings/index.html"
+        - text: "Article 6"
+          href: "posts/2021-03-07-an-anti-reflective-coat-ispire-of-moth-eyes/index.html"
+        - text: "Article 7"
+          href: "posts/a_new_super_hydrophobic_material_inspire_of_butterfly_wings/index.html"
+        - text: "Conclusion"
+          href: "posts/2021-04-20-conclusion/index.html"
     - icon: fab fa-github
       href: https://github.com/herinckx-arthur/arthur_blog
 base_url: http://herinckx-arthur.github.io/arthur_blog/

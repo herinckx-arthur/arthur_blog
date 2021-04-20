@@ -14,7 +14,9 @@
   color: black;
 }
 
-.distill-site-header {}
+.distill-site-header {
+  color: black;
+}
 
 .distill-site-footer {
 }
