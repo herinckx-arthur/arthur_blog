@@ -10,12 +10,11 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - text: "English Portfolio"
-    - color: 
     - menu:
         - text: "Introduction"
           href: "posts/2021-04-20-introduction/index.html"
         - text: "Article 1"
-          href: "posts/pretty_as_a_peackock/index.html"
+          href: "posts/pretty_as_a_peacock/index.html"
         - text: "Article 2"
           href: "posts/2020_11_22_artificial_eyes_mimic_ours_retina/index.html"
         - text: "Article 3"

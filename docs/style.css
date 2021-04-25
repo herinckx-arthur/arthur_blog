@@ -1,5 +1,5 @@
 .distill-site-nav { 
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(183, 235, 197, 0.8);
   background-color: #b7ebc5;
   font-size: 15px;
   font-weight: 300;
@@ -19,6 +19,7 @@
 }
 
 .distill-site-footer {
+  color: black;
 }
 
 
